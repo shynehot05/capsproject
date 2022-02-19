@@ -4,7 +4,7 @@ var johnAge=44;
 var samAge=32;
 var scores1=samHeight+samAge+5;
 var scores2=johnHeight+johnAge+5;
-// get the game winner
+// get the game winner 
  
 function gamewinner(scores1, scores2) {
     if(scores1 > scores2){
